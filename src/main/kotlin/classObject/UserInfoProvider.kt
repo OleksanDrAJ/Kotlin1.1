@@ -1,0 +1,4 @@
+package classObject
+
+interface userInfoProvider {
+}
